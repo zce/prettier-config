@@ -22,5 +22,5 @@ In `package.json`:
 
 [MIT](license) &copy; [zce](https://zce.me)
 
-[actions-img]: https://img.shields.io/github/workflow/status/zce/prettier-config/CI
+[actions-img]: https://img.shields.io/github/actions/workflow/status/zce/prettier-config/main.yml?branch=main
 [actions-url]: https://github.com/zce/prettier-config/actions
