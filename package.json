@@ -1,0 +1,19 @@
+{
+  "name": "@zce/prettier-config",
+  "description": "zce's personal Prettier config",
+  "version": "0.1.0-beta.0",
+  "repository": "zce/prettier-config",
+  "license": "MIT",
+  "author": "zce <w@zce.me> (https://zce.me)",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "dependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "latest",
+    "prettier-plugin-tailwindcss": "latest"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
