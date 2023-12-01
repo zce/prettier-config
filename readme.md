@@ -1,10 +1,10 @@
-# @zce/prettier-config [![Build Status][actions-img]][actions-url]
+# @zce/prettier-config
 
-> My personal [Prettier](https://prettier.io/) config.
+> my personal [Prettier](https://prettier.io/) config.
 
 ## Install
 
-```bash
+```sh
 npm i @zce/prettier-config -D
 ```
 
@@ -27,6 +27,3 @@ Or `.prettierrc`:
 ## License
 
 [MIT](license) &copy; [zce](https://zce.me/)
-
-[actions-img]: https://github.com/zce/prettier-config/actions/workflows/main.yml/badge.svg
-[actions-url]: https://github.com/zce/prettier-config/actions/workflows/main.yml
