@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-npm add @zce/prettier-config --dev
+npm i @zce/prettier-config -D
 ```
 
 ## Usage
@@ -18,9 +18,15 @@ In `package.json`:
 }
 ```
 
+Or `.prettierrc`:
+
+```json
+"@zce/prettier-config"
+```
+
 ## License
 
-[MIT](license) &copy; [zce](https://zce.me)
+[MIT](license) &copy; [zce](https://zce.me/)
 
-[actions-img]: https://img.shields.io/github/actions/workflow/status/zce/prettier-config/main.yml?branch=main
-[actions-url]: https://github.com/zce/prettier-config/actions
+[actions-img]: https://github.com/zce/prettier-config/actions/workflows/main.yml/badge.svg
+[actions-url]: https://github.com/zce/prettier-config/actions/workflows/main.yml
