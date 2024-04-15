@@ -9,9 +9,16 @@
     "@ianvs/prettier-plugin-sort-imports",
     "prettier-plugin-tailwindcss"
   ],
+  "tailwindAttributes": [
+    "enterFrom",
+    "enterTo",
+    "leaveFrom",
+    "leaveTo"
+  ],
   "tailwindFunctions": [
     "cn",
-    "cva"
+    "cva",
+    "twc"
   ],
   "importOrder": [
     "<BUILTIN_MODULES>",

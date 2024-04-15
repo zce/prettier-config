@@ -1,6 +1,6 @@
 # @zce/prettier-config
 
-> my personal [Prettier](https://prettier.io/) config.
+> my personal [Prettier](https://prettier.io) config.
 
 ## Install
 
