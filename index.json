@@ -9,6 +9,7 @@
     "@ianvs/prettier-plugin-sort-imports",
     "prettier-plugin-tailwindcss"
   ],
+  "tailwindEntryPoint": "theme.css",
   "tailwindAttributes": [
     "enterFrom",
     "enterTo",
