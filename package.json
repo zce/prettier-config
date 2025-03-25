@@ -5,13 +5,18 @@
   "repository": "zce/prettier-config",
   "license": "MIT",
   "author": "zce <w@zce.me> (https://zce.me)",
-  "main": "index.json",
+  "type": "module",
+  "exports": "./index.js",
+  "prettier": "./index.js",
   "files": [
-    "index.json"
+    "index.js"
   ],
   "dependencies": {
     "@ianvs/prettier-plugin-sort-imports": "latest",
     "prettier-plugin-tailwindcss": "latest"
+  },
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
   },
   "publishConfig": {
     "access": "public"
