@@ -1,7 +1,7 @@
 {
   "name": "@zce/prettier-config",
   "description": "zce's personal Prettier config",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "repository": "zce/prettier-config",
   "license": "MIT",
   "author": "zce <w@zce.me> (https://zce.me)",
