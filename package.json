@@ -7,7 +7,6 @@
   "author": "zce <w@zce.me> (https://zce.me)",
   "type": "module",
   "exports": "./index.js",
-  "prettier": "./index.js",
   "files": [
     "index.js"
   ],

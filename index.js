@@ -6,8 +6,8 @@ export default {
   arrowParens: 'avoid',
   printWidth: 160,
   plugins: [
-    import.meta.resolve('@ianvs/prettier-plugin-sort-imports'),
-    import.meta.resolve('prettier-plugin-tailwindcss')
+    '@ianvs/prettier-plugin-sort-imports',
+    'prettier-plugin-tailwindcss'
   ],
   tailwindStylesheet: 'theme.css',
   tailwindAttributes: ['enterFrom', 'enterTo', 'leaveFrom', 'leaveTo'],
